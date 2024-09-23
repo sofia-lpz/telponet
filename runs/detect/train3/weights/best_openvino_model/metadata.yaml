@@ -1,0 +1,22 @@
+description: Ultralytics YOLOv8n model trained on /home/sofia/Documents/telponet/alt_dataset/data.yaml
+author: Ultralytics
+date: '2024-09-19T12:15:32.195071'
+version: 8.2.93
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: armor
+  1: base
+  2: car
+  3: rune
+  4: rune-blue
+  5: rune-gray
+  6: rune-grey
+  7: rune-red
+  8: watcher
